@@ -17,11 +17,19 @@
       {% endif %}
     </section>
 
-    <section class="main-content">
-      <div>
-        <p>{{ content }}</p>
-      </div>
-    </section>
+    <div class="wrapper">
+      <section>
+        <div id="title">
+          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          <p>{{ page.description | default: site.github.project_tagline }}</p>
+          <hr>
+        </div>
+        
+        {{ content }}
+
+      </section>
+
+    </div>
 
     {% if site.google_analytics %}
       <script>
