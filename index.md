@@ -3,6 +3,6 @@ title: AP Nanoteknoloji Ltd.
 layout: default
 ---
 
-empty
+![GitHub Logo](assets/images/fotokatalitik.jpg)
 
 <hr>
