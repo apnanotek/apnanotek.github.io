@@ -1,5 +1,6 @@
 ---
-layout:default
+title: AP Nanoteknoloji Ltd.
+layout: default
 ---
 
 Test
