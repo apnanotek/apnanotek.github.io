@@ -7,4 +7,8 @@ layout: default
 
 <hr>
 
-![steam kit](http://www.apnano.com.tr/xe/files/attach/images/275/275/2ddb729984e00d48a3e9a47f93752e8b.jpg)
+![dssc](assets/images/dssc.jpg)
+
+<hr>
+
+![steam kit](assets/images/steamkit.jpg)
