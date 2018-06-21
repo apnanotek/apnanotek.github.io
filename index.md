@@ -3,7 +3,7 @@ title: AP Nanoteknoloji Ltd.
 layout: default
 ---
 
-![fotokatalitik](assets/images/fotokatalitik.jpg)
+![foto](assets/images/fotokatalitik.jpg)
 
 <hr>
 
