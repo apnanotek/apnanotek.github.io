@@ -4,9 +4,11 @@
 @import "{{ site.theme }}";
 
 .page-header {
-	background: #FFFFFF url('../images/test.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
+    background-color: #1b2426;
+    background-image: radial-gradient(circle farthest-corner at center,#1b2426 0,#1b2426 50%,#3b4e53 100%);
+    color: #6c8f91;
+    margin-top: 1rem;
+    padding-bottom: 3rem;
 }
 
 section {
