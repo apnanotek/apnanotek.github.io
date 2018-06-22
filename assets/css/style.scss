@@ -26,3 +26,13 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+#header nav {
+	background: none;
+}
+
+#header nav li a {
+	border: 1px solid #052438;
+	background-color: #0f2230;
+	color: #cde3fb;
+}
