@@ -3,15 +3,18 @@ title: AP Nanoteknoloji Ltd.
 layout: default
 ---
 
-<div id="fotokatalitik"></div>
+<div id="fotokatalitik">
 ![foto](assets/images/fotokatalitik.jpg)
+</div>
 
 <hr>
 
-<div id="dssc"></div>
+<div id="dssc">
 ![dssc](assets/images/dssc.jpg)
+</div>
 
 <hr>
 
-<div id="steam"></div>
+<div id="steam">
 ![steam kit](assets/images/steamkit.jpg)
+</div>
