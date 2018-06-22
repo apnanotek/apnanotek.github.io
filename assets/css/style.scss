@@ -115,6 +115,7 @@ section {
 }
 
 footer {
+    float: left;
     background-color: #1b2426;
     background-image: radial-gradient(circle farthest-corner at center,#1b2426 0,#1b2426 50%,#3b4e53 100%);
     color: #6c8f91;
@@ -124,10 +125,6 @@ footer {
 
 footer a img {
     margin: 25px 50px
-}
-
-footer div p {
-    float: right;
 }
 
 div.sticky {
