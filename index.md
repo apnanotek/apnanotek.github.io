@@ -12,5 +12,3 @@ layout: default
 <hr>
 
 ![steam kit](assets/images/steamkit.jpg)
-
-<hr>
